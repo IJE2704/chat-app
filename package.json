@@ -4,8 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "server": "node backend/server.js",
-    "start": "node backend/server.js"
+    "server": "node backend/server.js"
   },
   "type": "module",
   "keywords": [],
